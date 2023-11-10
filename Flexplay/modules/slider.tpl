@@ -1,0 +1,1 @@
+<div class="osahan-slider-item"><img src="{image-1}" class="img-fluid rounded" alt="{title}"></div>
